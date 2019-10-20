@@ -60,35 +60,6 @@ This workshop is intended for PhD students with a background in medicine, engine
 | 14:45 - 15:00 | Coffee Break ||
 | 15:00 - 17:00 |  |  |
 
-### Day 3 - Friday 8th March
-
-| **Time slot** | **Topic** | **Tutor** |
-| :---: | :--- | :---: |
-| 09:00 - 09:45 | Evaluation of the course + Lecture: Epigenetics at the DNA level | Wolfgang Hess |
-| 09:45 - 10:30 | Lecture: Third Generation Sequencing | Steffen C. Lott |
-| 10:30 - 11:00 | Coffee Break ||
-| 11:00 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
-| 12:30 - 13:30 | Discussion ||
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>
-
-## Run our Docker container
-
-To run Docker containers on our machines, we use [Docker for Windows](https://docs.docker.com/docker-for-windows/). Follow these steps to run [our Galaxy docker container](https://github.com/destairdenbi/galaxy-modular-workflow-generator):
-- Click on the Windows icon (bottom left), select *Programme*, and double click to open Docker for Windows
-- Docker is starting (tray icon bottom right)
-- When *Docker is running*
-- Click on the Windows icon (bottom left), and double-click to open Windows PowerShell
-- docker run -d -p 8080:80 quay.io/destair/galaxy-modular-workflow-generator
-- Open a new tab in your browser, and go to ``localhost:8080``
-- A local Galaxy framework service is running :)
-- Login with the default login credentials to try it
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>
-
-## Poster session
-
-The poster session will be held in the same room that we'll use throughout the whole 3 days training event. Due to space limitations, we cannot hang posters, however, you should bring a PDF version that will be shown using our projector.  
-Please prepare a 5 minutes pitch presentation: every poster will be presented to the whole class.
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Evening event
 
