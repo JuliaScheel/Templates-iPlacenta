@@ -50,7 +50,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 10:15 | Introduction systems Biology
+| 09:00 - 09:45 | Introduction systems biology | Olaf 
 | 10:15 - 11:15 |  |  |
 | 11:15 - 11:30 | Coffee Break ||
 | 11:30 - 12:30 |  |  |
