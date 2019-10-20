@@ -6,13 +6,14 @@ The training course will introduce basic concepts of systems biology, network an
 Lectures will be provided on the topics of RNA and Bisulfite sequencing, Epigenetics, and basic statistics, and followed by hands-on sessions. Finally, we will showcase a Galaxy Docker installation for customized workflow analysis.
 
 Learning goals:
+- Understand the concepts of systems biology and how they enable us to analyze and interprete data 
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
-- Performing differential methylation analysis using Galaxy
-- Handling and analyse Oxford Nanopore sequencing data
+- visualize a network
+
 
 Prerequisites:
-This workshop is intended for MSc/PhD students, postdocs, and researchers with a background in life science research. During registration, please hand over a poster about a research topic of your choosing. Posters will be presented during our poster session, that you can use to exchange experiences with other researchers.
+This workshop is intended for PhD students with a background in medicine, engineering and life science research.
 
 <div id="top"></div>
 
