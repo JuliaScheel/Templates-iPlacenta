@@ -6,10 +6,10 @@ The training course will introduce basic concepts of systems biology, network an
 Lectures will be provided on the topics of RNA and Bisulfite sequencing, Epigenetics, and basic statistics, and followed by hands-on sessions. Finally, we will showcase a Galaxy Docker installation for customized workflow analysis.
 
 Learning goals:
-- Understand the concepts of systems biology and how they enable us to analyze and interprete data 
+- Know the concepts of systems biology and how they enable us to analyze and interprete data 
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
-- visualize a network
+- Visualize a network
 
 
 Prerequisites:
@@ -20,7 +20,6 @@ This workshop is intended for PhD students with a background in medicine, engine
 - [Schedule](#schedule)
   - [Day 1](#day-1---wednesday-6th-april)
   - [Day 2](#day-2---thursday-7th-april)
-- [Poster session](#poster-session)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
 - [Evaluation](#evaluation)
@@ -51,7 +50,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 10:15 |
+| 09:00 - 10:15 | Introduction systems Biology
 | 10:15 - 11:15 |  |  |
 | 11:15 - 11:30 | Coffee Break ||
 | 11:30 - 12:30 |  |  |
