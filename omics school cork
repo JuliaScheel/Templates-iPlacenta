@@ -1,6 +1,8 @@
-# Galaxy for linking bisulfite sequencing with RNA sequencing
+# Omics Training Cork
+## Galaxy for linking bisulfite sequencing with RNA sequencing
 
-The training course will introduce the [Galaxy framework](https://usegalaxy.org), and showcase its tools for data handling and preprocessing, differential gene expression analysis, bisulfite sequencing analysis, and Oxford Nanopore data exploration and usage.  
+The training course will introduce basic concepts of systems biology, network analysis, network visualisation and the [Galaxy framework](https://usegalaxy.org).
+, and showcase its tools for data handling and preprocessing, differential gene expression analysis, bisulfite sequencing analysis, and Oxford Nanopore data exploration and usage.  
 Lectures will be provided on the topics of RNA and Bisulfite sequencing, Epigenetics, and basic statistics, and followed by hands-on sessions. Finally, we will showcase a Galaxy Docker installation for customized workflow analysis.
 
 Learning goals:
@@ -14,29 +16,20 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 
 <div id="top"></div>
 
-- [Venue](#venue)
 - [Schedule](#schedule)
-  - [Day 1](#day-1---wednesday-6th-march)
-  - [Day 2](#day-2---thursday-7th-march)
-  - [Day 3](#day-3---friday-8th-march)
-- [Run our Docker container](#run-our-docker-container)
+  - [Day 1](#day-1---wednesday-6th-april)
+  - [Day 2](#day-2---thursday-7th-april)
 - [Poster session](#poster-session)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
 - [Evaluation](#evaluation)
 
-## Venue
-
-All training sessions will be delivered at Konrad-Zuse-Haus, Albert-Einstein-Str. 22, 18059 Rostock.  
-The building can be reached using the Straßenbahn lines **4** and **6** or Bus **39**, stop: **Campus Südstadt**. Please, refer to the [RSAG](https://www.rsag-online.de/) public transportation page for timetables and directions.  
-Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the training room at the 2nd floor (PC-Pool 239).
-[<img align="center" src="assets/img/map-kzh.png" height="200px" alt="Konrad-Zuse-Haus" valign="middle">](https://www.openstreetmap.org/#map=19/54.07746/12.10630)
 <br />
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Schedule
 
-### Day 1 - Wednesday 6th March
+### Day 1 - Wednesday 6th April
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
@@ -54,7 +47,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Walk in the city, and dinner at the harbour | [booking necessary](#evening-event) |
 
-### Day 2 - Thursday 7th March
+### Day 2 - Thursday 7th April
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
