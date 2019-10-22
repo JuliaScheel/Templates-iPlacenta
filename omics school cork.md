@@ -53,11 +53,11 @@ This workshop is intended for PhD students with a background in medicine, engine
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 | 09:00 - 10:00 | Introduction systems biology | Olaf |
-| 10:15 - 11:15 |  |  |
+| 10:00 - 11:15 | The systems biology appraoch | Shailendra |
 | 11:15 - 11:30 | Coffee Break ||
-| 11:30 - 12:30 |  |  |
+| 11:30 - 12:30 | Network construction and analysis | Shailendra |
 | 12:30 - 14:00 | Lunch ||
-| 14:00 - 14:45 |  |  |
+| 14:00 - 14:45 | Galaxy - gene expression analysis | Andrea |
 | 14:45 - 15:00 | Coffee Break ||
 | 15:00 - 17:00 |  |  |
 
