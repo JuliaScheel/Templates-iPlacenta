@@ -1,16 +1,19 @@
 # Omics Training Cork
 ## Galaxy for linking bisulfite sequencing with RNA sequencing
 
-The training course will introduce basic concepts of systems biology, network analysis, network visualisation and the [Galaxy framework](https://usegalaxy.org).
-, and showcase its tools for data handling and preprocessing, differential gene expression analysis, bisulfite sequencing analysis, and Oxford Nanopore data exploration and usage.  
-Lectures will be provided on the topics of RNA and Bisulfite sequencing, Epigenetics, and basic statistics, and followed by hands-on sessions. Finally, we will showcase a Galaxy Docker installation for customized workflow analysis.
+The training course will introduce basic concepts of systems biology, network analysis, network visualisation and the [Galaxy framework](https://usegalaxy.org). 
 
 Learning goals:
+- Know basic systems biology terminologies
+- Understand the systems biology workflow
+- calculate network topological parameters
+- find critical nodes in the network
+- identify the regulatory core from a large network
 - Know the concepts of systems biology and how they enable us to analyze and interprete data 
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
 - Visualize a network
-
+- 
 
 Prerequisites:
 This workshop is intended for PhD students with a background in medicine, engineering and life science research.
