@@ -36,17 +36,17 @@ This workshop is intended for PhD students with a background in medicine, engine
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 | 09:00 - 09:30 | Coffee | everyone |
-| 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
-| 10:15 - 10:30 | Coffee break ||
-| 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/rna-seq.pdf)| Markus Wolfien |
-| 11:15 - 12:00 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
+| 09:30 - 10:15 | Welcome |  |
+| 10:15 - 10:30 | Coffee break +  breaktout session? ||
+| 10:30 - 11:15 | Network meeting|  |
+| 11:15 - 12:00 | PI meeting|  |
 | 12:00 - 13:45 | Lunch ||
-| 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
-| 14:30 - 15:15 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
+| 13:45 - 14:30 | 
+| 14:30 - 15:15 | 
 | 15:15 - 15:45 | Coffee break ||
-| 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
-| 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
-| 18:00 | Walk in the city, and dinner at the harbour | [booking necessary](#evening-event) |
+| 15:45 - 16:30 | 
+| 16:30 - 17:15 | 
+| 18:00 |evening event?
 
 ### Day 2 - Thursday 7th April
 
