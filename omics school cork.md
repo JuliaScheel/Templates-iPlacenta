@@ -1,15 +1,14 @@
 # Omics Training Cork
-## Galaxy for linking bisulfite sequencing with RNA sequencing
 
 The training course will introduce basic concepts of systems biology, network analysis, network visualisation and the [Galaxy framework](https://usegalaxy.org). 
 
 Learning goals:
+- Understand the motivation behind systems biology approaches
 - Know basic systems biology terminologies
 - Understand the systems biology workflow
-- calculate network topological parameters
-- find critical nodes in the network
-- identify the regulatory core from a large network
-- Know the concepts of systems biology and how they enable us to analyze and interprete data 
+- Calculate network topological parameters
+- Find critical nodes in the network
+- Identify the regulatory core from a large network
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
 - Visualize a network
@@ -53,7 +52,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 09:45 | Introduction systems biology | Olaf 
+| 09:00 - 10:00 | Introduction systems biology | Olaf |
 | 10:15 - 11:15 |  |  |
 | 11:15 - 11:30 | Coffee Break ||
 | 11:30 - 12:30 |  |  |
@@ -65,7 +64,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 ## Evening event
 
-After the first day, who wants to join can follow us through a visit of the city center, followed by a dinner at the [Alter Fritz](https://www.alter-fritz.de/), in the city harbour. Please tell us if you want to join during the registration.
+Amazing evening event in or around Cork
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Useful links
