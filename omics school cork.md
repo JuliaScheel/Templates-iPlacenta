@@ -35,9 +35,9 @@ This workshop is intended for PhD students with a background in medicine, engine
 | :---: | :--- | :---: |
 | 09:00 - 09:30 | Coffee | everyone |
 | 09:30 - 10:15 | Welcome |  |
-| 10:15 - 10:30 | Coffee break +  breaktout session? ||
+| 10:15 - 10:30 | Coffee break +  breaktout session? +  network meeting + PI meeting ||
 | 10:30 - 11:15 | Network meeting|  |
-| 11:15 - 12:00 | PI meeting|  |
+| 11:15 - 12:00 | |  |
 | 12:00 - 13:45 | Lunch ||
 | 13:45 - 14:30 | 
 | 14:30 - 15:15 | 
@@ -55,10 +55,10 @@ This workshop is intended for PhD students with a background in medicine, engine
 | 10:45 - 11:00 | Coffee Break ||
 | 11:00 - 12:00 | Network construction and analysis | Shailendra |
 | 12:00 - 12:45 | Galaxy - gene expression analysis | Andrea |
-| 14:00 - 14:45 | Lunch | Andrea |
-| 14:45 - 15:30 | Galaxy demo ||
-| 15:30 - 17:00 | Standards of network visualization and hands on  | Tom |
-
+| 14:00 - 14:45 | Lunch |  |
+| 14:45 - 15:30 | Galaxy demo | Andrea |
+| 15:30 - 15:45 | Coffee Break  |  |
+| 15:45 - 17:00 | Standards of network visualization and hands on  | Tom |
 
 ## Evening event
 
@@ -66,6 +66,8 @@ Amazing evening event in or around Cork
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Useful links
+- [Systems Biology as Defined by NIH](https://irp.nih.gov/catalyst/v19i6/systems-biology-as-defined-by-nih)
+- [SBI Rostock Projects](https://www.sbi.uni-rostock.de/research/projects)
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
 - [QC FAIL](https://sequencing.qcfail.com/) : articles about common NGS problems
 - [Correlation between DNA methylation and gene expression in the brains of patients with bipolar disorder and schizophrenia](https://doi.org/10.1111/bdi.12255)
