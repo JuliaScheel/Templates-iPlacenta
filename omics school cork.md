@@ -71,5 +71,4 @@ Amazing evening event in or around Cork
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
 - [QC FAIL](https://sequencing.qcfail.com/) : articles about common NGS problems
 - [Correlation between DNA methylation and gene expression in the brains of patients with bipolar disorder and schizophrenia](https://doi.org/10.1111/bdi.12255)
-phase](https://doi.org/10.1038/s41598-017-03682-0)
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
