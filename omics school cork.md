@@ -12,7 +12,6 @@ Learning goals:
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
 - Visualize a network
-- 
 
 Prerequisites:
 This workshop is intended for PhD students with a background in medicine, engineering and life science research.
@@ -24,7 +23,6 @@ This workshop is intended for PhD students with a background in medicine, engine
   - [Day 2](#day-2---thursday-7th-april)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
-- [Evaluation](#evaluation)
 
 <br />
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
@@ -59,8 +57,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 | 12:00 - 12:45 | Galaxy - gene expression analysis | Andrea |
 | 14:00 - 14:45 | Lunch | Andrea |
 | 14:45 - 15:30 | Galaxy demo ||
-| 15:00 - 17:00 | Standards of network visualization and hands on  |  |
-| 15:00 - 17:00 | Standards of network visualization and hands on  |  |
+| 15:30 - 17:00 | Standards of network visualization and hands on  | Tom |
 
 
 ## Evening event
@@ -72,11 +69,5 @@ Amazing evening event in or around Cork
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
 - [QC FAIL](https://sequencing.qcfail.com/) : articles about common NGS problems
 - [Correlation between DNA methylation and gene expression in the brains of patients with bipolar disorder and schizophrenia](https://doi.org/10.1111/bdi.12255)
-- [A complex association between DNA methylation and gene expression in human placenta at first and third trimesters](https://doi.org/10.1371/journal.pone.0181155)
-- [Correlation between the DNA methylation and gene expression of IGFBP5 in breast cancer](https://doi.org/10.3233/BD-160234)
-- [DNA methylation changes in endometrium and correlation with gene expression during the transition from pre-receptive to receptive phase](https://doi.org/10.1038/s41598-017-03682-0)
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>
-
-## Evaluation
-As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, [provide us your feedback through this short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000183).
+phase](https://doi.org/10.1038/s41598-017-03682-0)
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
