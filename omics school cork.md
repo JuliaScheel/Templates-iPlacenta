@@ -60,6 +60,8 @@ This workshop is intended for PhD students with a background in medicine, engine
 | 15:30 - 15:45 | Coffee Break  |  |
 | 15:45 - 17:00 | Standards of network visualization and hands on  | Tom |
 
+Memo to myself: let's at least add little quizzes in between - the topic is too abstract to simply talk about it for a couple of hours. If possible - let's finish on SBI projects - show them how broad and interdisciplinary our topics are.  
+
 ## Evening event
 
 Amazing evening event in or around Cork
