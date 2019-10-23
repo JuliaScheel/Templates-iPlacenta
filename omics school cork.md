@@ -14,7 +14,7 @@ Learning goals:
 - Visualize a network
 
 Prerequisites:
-This workshop is intended for PhD students with a background in medicine, engineering and life science research.
+This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC between two participants with access to Wifi. 
 
 <div id="top"></div>
 
@@ -68,6 +68,7 @@ Amazing evening event in or around Cork
 ## Useful links
 - [Systems Biology as Defined by NIH](https://irp.nih.gov/catalyst/v19i6/systems-biology-as-defined-by-nih)
 - [SBI Rostock Projects](https://www.sbi.uni-rostock.de/research/projects)
+- [Systems Biology Encyclopedia](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-9863-7_547#springerlink-search)
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
 - [QC FAIL](https://sequencing.qcfail.com/) : articles about common NGS problems
 - [Correlation between DNA methylation and gene expression in the brains of patients with bipolar disorder and schizophrenia](https://doi.org/10.1111/bdi.12255)
