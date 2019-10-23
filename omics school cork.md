@@ -29,7 +29,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 ## Schedule
 
-### Day 1 - Wednesday 6th April
+### Day 1 - Monday 6th April
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
@@ -46,7 +46,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 | 16:30 - 17:15 | 
 | 18:00 |evening event?
 
-### Day 2 - Thursday 7th April
+### Day 2 - Tuesday 7th April
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
