@@ -61,6 +61,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
+|<img width=100/>|<img width=500/>|<img width=100/>|
 | 13:00 - 13:30 | TBD | Dr. Daniel Vaiman |
 | 13:30 - 14:00 | TBD | Prof. Leon de Windt|
 | 14:00 - 14:30 | Imaging of the Placenta | Dr. Lisa Story|
