@@ -35,7 +35,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 ### Venue: Aula Maxima
 
 Address: 60 College Rd, University College, Cork, Ireland. 
-[<img align="center" src="assets/img/map-kzh.png" height="200px" alt="Konrad-Zuse-Haus" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)
+[<img align="center" src="assets/img/map-kzh.png" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)
 <br />
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 | **Time slot** | **Topic** | **Tutor** |
