@@ -41,7 +41,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
   
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :------------------------------- | :---: |
-|<img width=100/>|<img width=500/>|<img width=100/>|
+|<img width=100/>|<img width=550/>|<img width=100/>|
 | 08:30 - 09:00 | Poster Set-up |  |
 | 09:00 - 10:00 | Network Meeting | iPlacenta ESRs and PIs |
 | 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
@@ -61,7 +61,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-|<img width=100/>|<img width=500/>|<img width=100/>|
+|<img width=100/>|<img width=550/>|<img width=100/>|
 | 13:00 - 13:30 | TBD | Dr. Daniel Vaiman |
 | 13:30 - 14:00 | TBD | Prof. Leon de Windt|
 | 14:00 - 14:30 | Imaging of the Placenta | Dr. Lisa Story|
@@ -74,6 +74,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
+|<img width=100/>|<img width=550/>|<img width=100/>|
 | 09:00 - 10:00 | Introduction systems biology | Olaf |
 | 10:00 - 10:45 | The systems biology approach | Shailendra |
 | 10:45 - 11:00 | Coffee Break ||
