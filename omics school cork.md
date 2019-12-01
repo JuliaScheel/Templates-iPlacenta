@@ -56,11 +56,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 ### Day 1-2 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
-### Venue: Aula Maxima
-Address: 60 College Rd, University College, Cork, Ireland.   
-[<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
+### Venue: Aula Maxima 
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
@@ -106,10 +102,7 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 13:40 - 14:20 | Pregnancy, birth, and 3  months in the NICO ... 10 years on | Bairbre O'Toole |
-| 14:20 - 15:05 | Irish Nionatal Health Alliance  
-* Family Centred Care
-* Bonding and Attachment in the NICU
-* The importance of sleepin the NICU| Mandy Daly  |
+| 14:20 - 15:05 | Irish Nionatal Health Alliance  <ul><li>Family Centred Care</li><li>Bonding and Attachment in the NICU</li><li>The importance of sleepin the NICU</li></ul> | Mandy Daly  |
 | 15:20 | Team Building Activity: Goalbreak | [Team Build Cork](https://corkcitygaol.com/) |
 
 
