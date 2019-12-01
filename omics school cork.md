@@ -40,7 +40,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
   
 | **Time slot** | **Topic** | **Tutor** |
-| :---: | :--- | :---: |
+| :---: | :------------------------------- | :---: |
 | 08:30 - 09:00 | Poster Set-up |  |
 | 09:00 - 10:00 | Network Meeting | iPlacenta ESRs and PIs |
 | 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
