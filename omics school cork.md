@@ -19,8 +19,9 @@ This workshop is intended for PhD students with a background in medicine, engine
 <div id="top"></div>
 
 - [Schedule](#schedule)
-  - [Day 1](#day-1---wednesday-6th-april)
-  - [Day 2](#day-2---thursday-7th-april)
+  - [Day 1](#day-1---monday-6th-april)
+  - [Day 2](#day-2---tuesday-7th-april)
+  - [Day 3](#day-3---wednesday-8th-april)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
 
@@ -30,16 +31,22 @@ This workshop is intended for PhD students with a background in medicine, engine
 ## Schedule
 
 ### Day 1 - Monday 6th April
+iPlacenta Network Meeting and ESR Presentations (Closed Event)
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 09:30 | Coffee | everyone |
-| 09:30 - 10:15 | Welcome |  |
-| 10:15 - 10:30 | Coffee break +  breaktout session? +  network meeting + PI meeting ||
-| 10:30 - 11:15 | Network meeting|  |
-| 11:15 - 12:00 | |  |
-| 12:00 - 13:45 | Lunch ||
-| 13:45 - 14:30 | 
+| 08:30 - 09:00 | Poster Set-up |  |
+| 09:00 - 10:00 | Network Meeting | iPlacenta ESRs and PIs |
+| 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
+| 10:25 - 10:40 | Coffee break ||
+| 10:40 - 11:05 | 3 min ESR Presentations| ESRs 9 to 15 |
+| 11:05 - 11:30 | Poster Session | all ESRs |
+| 11:30 - 12:00 | Supervisory Board Meeting ||
+| 12:00 - 12:50 | LUNCH || 
+
+
+
+
 | 14:30 - 15:15 | 
 | 15:15 - 15:45 | Coffee break ||
 | 15:45 - 16:30 | 
