@@ -52,6 +52,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 11:30 - 12:00 | Supervisory Board Meeting ||
 | 12:00 - 12:50 | Lunch || 
 
+
 ### Day 1-2 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
@@ -72,6 +73,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 15:15 - 15:45 | TBD | Prof. Olaf Wolkenhauer|
 | 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
 
+
 ### Day 2-1 - Tuesday 7th April
 ### Introduction to Systems Biology
 ### Venue: Western Gateway Building
@@ -90,6 +92,7 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | 12:30 - 13:15 | Lunch | |
 | 13:15 - 13:30 | Walk to CUMH |  |
 
+
 ### Day 2-2 - Tuesday 7th April
 ### Patient Interaction Session
 Chair: Dr. Fergus McCarthy
@@ -99,9 +102,16 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
-| 14:45 -  | Galaxy demo | Andrea |
-| 15:30 - 15:45 | Coffee Break  |  |
-| 15:45 - 17:00 | Standards of network visualization and hands on  | Tom |
+| **Time slot** | **Topic** | **Tutor** |
+| :---: | :--- | :---: |
+|<img width=100/>|<img width=550/>|<img width=150/>|
+| 13:40 - 14:20 | Pregnancy, birth, and 3  months in the NICO ... 10 years on | Bairbre O'Toole |
+| 14:20 - 15:05 | Irish Nionatal Health Alliance  
+* Family Centred Care
+* Bonding and Attachment in the NICU
+* The importance of sleepin the NICU| Mandy Daly  |
+| 15:20 | Team Building Activity: Goalbreak | [Team Build Cork](https://corkcitygaol.com/) |
+
 
 Memo to myself: let's at least add little quizzes in between - the topic is too abstract to simply talk about it for a couple of hours. If possible - let's finish on SBI projects - show them how broad and interdisciplinary our topics are.  
 
