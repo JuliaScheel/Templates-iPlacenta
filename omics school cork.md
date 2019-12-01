@@ -21,7 +21,8 @@ This workshop is intended for PhD students with a background in medicine, engine
 - [Schedule](#schedule)
   - [Day 1-1](#day-1-1---monday-6th-april)
   - [Day 1-2](#day-1-2---monday-6th-april)
-  - [Day 2](#day-2---tuesday-7th-april)
+  - [Day 2-1](#day-2-1---tuesday-7th-april)
+  - [Day 2-2](#day-2-2---tuesday-7th-april)
   - [Day 3](#day-3---wednesday-8th-april)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
@@ -49,7 +50,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 10:40 - 11:05 | 3 min ESR Presentations| ESRs 9 to 15 |
 | 11:05 - 11:30 | Poster Session | all ESRs |
 | 11:30 - 12:00 | Supervisory Board Meeting ||
-| 12:00 - 12:50 | LUNCH || 
+| 12:00 - 12:50 | Lunch || 
 
 ### Day 1-2 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
@@ -70,16 +71,22 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 15:15 - 15:45 | TBD | Prof. Olaf Wolkenhauer|
 | 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
 
-### Day 2 - Tuesday 7th April
+### Day 2-1 - Tuesday 7th April
+### Introduction to Systems Biology
+### Venue: Western Gateway Building
+Address: University College Cork, Western Rd, Mardyke, Cork, Ireland. 
+[<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
-| 09:00 - 10:00 | Introduction systems biology | Olaf |
-| 10:00 - 10:45 | The systems biology approach | Shailendra |
-| 10:45 - 11:00 | Coffee Break ||
-| 11:00 - 12:00 | Network construction and analysis | Shailendra |
-| 12:00 - 12:45 | Galaxy - gene expression analysis | Andrea |
+| 08:30 - 09:15 | The systems biology approach | Dr. Shailendra Gupta |
+| 09:15 - 10:15 | Network construction and analysis | Dr. Shailendra Gupta|
+| 10:15 - 10:30 | Coffee Break ||
+| 10:30 - 12:30 | Galaxy - gene expression analysis - hands on | Andrea Bagnacani |
+| 12:30 - 13:15 | Lunch | |
 | 14:00 - 14:45 | Lunch |  |
 | 14:45 - 15:30 | Galaxy demo | Andrea |
 | 15:30 - 15:45 | Coffee Break  |  |
