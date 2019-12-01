@@ -54,6 +54,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 
 ### Day 1-2 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
+Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
 ### Venue: Aula Maxima
 Address: 60 College Rd, University College, Cork, Ireland.   
 [<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
@@ -87,8 +88,18 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | 10:15 - 10:30 | Coffee Break ||
 | 10:30 - 12:30 | Galaxy - gene expression analysis - hands on | Andrea Bagnacani |
 | 12:30 - 13:15 | Lunch | |
-| 14:00 - 14:45 | Lunch |  |
-| 14:45 - 15:30 | Galaxy demo | Andrea |
+| 13:15 - 13:30 | Walk to CUMH |  |
+
+### Day 2-2 - Tuesday 7th April
+### Patient Interaction Session
+Chair: Dr. Fergus McCarthy
+### Venue: Cork University Materny Hospital
+Address: Wilton Rd, Wilton, Cork, Ireland.   
+[<img align="center" src="cork_university_maternity_hospital.PNG" height="200px" alt="Cork University Maternity Hospital" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
+
+| 14:45 -  | Galaxy demo | Andrea |
 | 15:30 - 15:45 | Coffee Break  |  |
 | 15:45 - 17:00 | Standards of network visualization and hands on  | Tom |
 
