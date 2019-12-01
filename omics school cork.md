@@ -19,7 +19,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 <div id="top"></div>
 
 - [Schedule](#schedule)
-  - [Day 1-1](#day-1-1---monday-6th-april)
+  - [Day 1](#day-1---monday-6th-april)
   - [Day 1-2](#day-1-2---monday-6th-april)
   - [Day 2-1](#day-2-1---tuesday-7th-april)
   - [Day 2-2](#day-2-2---tuesday-7th-april)
@@ -32,13 +32,11 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 ## Schedule
 
-### Day 1-1 - Monday 6th April
+### Day 1 - Monday 6th April
 ### iPlacenta Network Meeting and ESR Presentations (Closed Event)
 Venue: Aula Maxima
 Address: 60 College Rd, University College, Cork, Ireland.   
 [<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
   
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :------------------------------- | :---: |
@@ -51,9 +49,10 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 11:05 - 11:30 | Poster Session | all ESRs |
 | 11:30 - 12:00 | Supervisory Board Meeting ||
 | 12:00 - 12:50 | Lunch || 
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
-
-### Day 1-2 - Monday 6th April
+### Day 1 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
 Venue: Aula Maxima 
@@ -69,6 +68,8 @@ Venue: Aula Maxima
 | 15:15 - 15:45 | TBD | Prof. Olaf Wolkenhauer|
 | 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
 
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
 ### Day 2-1 - Tuesday 7th April
 ### Introduction to Systems Biology
