@@ -19,7 +19,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 <div id="top"></div>
 
 - [Schedule](#schedule)
-  - [Day 1](#day-1---monday-6th-april)
+  - [Day 1.1](#day-1---monday-6th-april)
   - [Day 2](#day-2---tuesday-7th-april)
   - [Day 3](#day-3---wednesday-8th-april)
 - [Evening event](#evening-event)
@@ -30,7 +30,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 ## Schedule
 
-### Day 1 - Monday 6th April
+### Day 1.1 - Monday 6th April
 ### iPlacenta Network Meeting and ESR Presentations (Closed Event)
 ### Venue: Aula Maxima
 
