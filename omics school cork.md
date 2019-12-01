@@ -106,7 +106,28 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 | 15:20 | Team Building Activity: Goalbreak | [Team Build Cork](https://corkcitygaol.com/) |
 
 
-Memo to myself: let's at least add little quizzes in between - the topic is too abstract to simply talk about it for a couple of hours. If possible - let's finish on SBI projects - show them how broad and interdisciplinary our topics are.  
+### Day 3 - Wednesday 7th April
+### UCC Talks (Open Session)
+Chair: Dr. Jane English and Dr. Cathal McCarthy
+### Venue: Western Gateway Building
+Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.   
+[<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
+
+| **Time** | **Title** | **Facilitator** |
+| :---: | :--- | :---: |
+|<img width=100/>|<img width=550/>|<img width=150/>|
+| 08:30 - 09:00 | Biology of the Placenta | Ms Susan Dineen |
+| 09:00 - 09:30 | Predicting Critical Illness and Outcome in Preterm Newborns using Automated Physiological Neurobell - Portable EEG Monitoring and Analysis | Dr. John O'Toole  |
+| 09:30 - 10:00 | Neurobell - Portable EEG Monitoring and Analysis | Mark O'Sullivan  |
+| 10:00 - 10:20 | Open Sciences and Its' Impact on Research| Ms Aoife Coffey |
+| 10:20 - 10:40 | Coffee break| |
+| 10:40 - 11:20 | Writing successful grant proposals| Dr. Ashleigh Byrne & Dr. Eoghan McKernan|
+| 11:20 - 11:55 | Microbiome-Gut-Brain Axis During Pregnancy and Beyond| Dr. Siobhain O'Mahony|
+| 11:55 - 12:25 | LUNCH| |
+| 12:25 - 13:45 | Standards of network visualization and hands on| Tom Gebhardt|
+
 
 ## Evening event
 
