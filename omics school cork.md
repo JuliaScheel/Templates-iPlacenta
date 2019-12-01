@@ -55,12 +55,12 @@ Venue: Aula Maxima
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
-| 13:00 - 13:30 | TBD | Dr. Daniel Vaiman |
-| 13:30 - 14:00 | TBD | Prof. Leon de Windt|
-| 14:00 - 14:30 | Imaging of the Placenta | Dr. Lisa Story|
-| 14:30 - 15:00 | TBD | Dr. Jane English |
+| 13:00 - 13:30 | TBD | [Dr. Daniel Vaiman](https://www.institutcochin.fr/la-recherche/drc/equipe-vaiman) |
+| 13:30 - 14:00 | TBD | [Prof. Leon de Windt](https://www.maastrichtuniversity.nl/l.dewindt)|
+| 14:00 - 14:30 | Imaging of the Placenta | [Dr. Lisa Story]()|
+| 14:30 - 15:00 | TBD | [Dr. Jane English](https://www.bonsecours.ie/consultants/staff/janeenglish) |
 | 15:00 - 15:15 | Coffee break ||
-| 15:15 - 15:45 | TBD | Prof. Olaf Wolkenhauer|
+| 15:15 - 15:45 | TBD | [Prof. Olaf Wolkenhauer](https://www.sbi.uni-rostock.de/team/detail/prof-olaf-wolkenhauer)|
 | 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
 
 <br />  
@@ -75,10 +75,10 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
-| 08:30 - 09:15 | The systems biology approach | Dr. Shailendra Gupta |
-| 09:15 - 10:15 | Network construction and analysis | Dr. Shailendra Gupta|
+| 08:30 - 09:15 | The systems biology approach | [Dr. Shailendra Gupta](https://www.sbi.uni-rostock.de/team/detail/shailendra-gupta) |
+| 09:15 - 10:15 | Network construction and analysis | [Dr. Shailendra Gupta](https://www.sbi.uni-rostock.de/team/detail/shailendra-gupta)|
 | 10:15 - 10:30 | Coffee Break ||
-| 10:30 - 12:30 | Galaxy - gene expression analysis - hands on | Andrea Bagnacani |
+| 10:30 - 12:30 | Galaxy - gene expression analysis - hands on | [Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani) |
 | 12:30 - 13:15 | Lunch | |
 | 13:15 - 13:30 | Walk to CUMH |  |
 
@@ -92,7 +92,7 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 13:40 - 14:20 | Pregnancy, birth, and 3  months in the NICO ... 10 years on | Bairbre O'Toole |
-| 14:20 - 15:05 | Irish Nionatal Health Alliance  <ul><li>Family Centred Care</li><li>Bonding and Attachment in the NICU</li><li>The importance of sleepin the NICU</li></ul> | Mandy Daly  |
+| 14:20 - 15:05 | Irish Nionatal Health Alliance  <ul><li>Family Centred Care</li><li>Bonding and Attachment in the NICU</li><li>The importance of sleepin the NICU</li></ul> | [Mandy Daly](https://www.healthynewbornnetwork.org/member/mandy-daly/)  |
 | 15:20 | Team Building Activity: Goalbreak | [Team Build Cork](https://corkcitygaol.com/) |
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
@@ -108,14 +108,14 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | :---: | :--- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 08:30 - 09:00 | Biology of the Placenta | Ms Susan Dineen |
-| 09:00 - 09:30 | Predicting Critical Illness and Outcome in Preterm Newborns using Automated Physiological Neurobell - Portable EEG Monitoring and Analysis | Dr. John O'Toole  |
-| 09:30 - 10:00 | Neurobell - Portable EEG Monitoring and Analysis | Mark O'Sullivan  |
+| 09:00 - 09:30 | Predicting Critical Illness and Outcome in Preterm Newborns using Automated Physiological Neurobell - Portable EEG Monitoring and Analysis | [Dr. John O'Toole](https://www.infantcentre.ie/who-we-are-2/our-team/investigators/dr-john-otoole)  |
+| 09:30 - 10:00 | Neurobell - Portable EEG Monitoring and Analysis | [Mark O'Sullivan](https://www.infantcentre.ie/who-we-are-2/our-team/postgraduate-students/mark-osullivan)  |
 | 10:00 - 10:20 | Open Sciences and Its' Impact on Research| Ms Aoife Coffey |
 | 10:20 - 10:40 | Coffee break| |
-| 10:40 - 11:20 | Writing successful grant proposals| Dr. Ashleigh Byrne & Dr. Eoghan McKernan|
-| 11:20 - 11:55 | Microbiome-Gut-Brain Axis During Pregnancy and Beyond| Dr. Siobhain O'Mahony|
+| 10:40 - 11:20 | Writing successful grant proposals| [Dr. Ashleigh Byrne]() & [Dr. Eoghan McKernan](https://www.infantcentre.ie/who-we-are-2/our-team/operations/eoghan-mckernan)|
+| 11:20 - 11:55 | Microbiome-Gut-Brain Axis During Pregnancy and Beyond| [Dr. Siobhain O'Mahony](http://publish.ucc.ie/profiles/C003/somahony)|
 | 11:55 - 12:25 | LUNCH| |
-| 12:25 - 13:45 | Standards of network visualization and hands on| Tom Gebhardt|
+| 12:25 - 13:45 | Standards of network visualization and hands on| [Tom Gebhardt](https://www.sbi.uni-rostock.de/team/detail/tom-gebhardt)|
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
