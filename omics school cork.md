@@ -21,7 +21,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 - [Schedule](#schedule)
   - [Day 1](#day-1---monday-6th-april)
   - [Day 2](#day-2---tuesday-7th-april)
-  - [Day 3](#day-3---wednesday-8th-april)
+  - [Day 2](#day-2---wednesday-8th-april)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
 
@@ -97,7 +97,7 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
-### Day 3 - Wednesday 7th April
+### Day 3 - Wednesday 8th April
 ### UCC Talks (Open Session)
 Chair: Dr. Jane English and Dr. Cathal McCarthy
 Venue: Western Gateway Building
