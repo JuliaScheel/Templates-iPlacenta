@@ -35,7 +35,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 ### Day 1-1 - Monday 6th April
 ### iPlacenta Network Meeting and ESR Presentations (Closed Event)
 ### Venue: Aula Maxima
-Address: 60 College Rd, University College, Cork, Ireland. 
+Address: 60 College Rd, University College, Cork, Ireland.   
 [<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
@@ -55,7 +55,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 ### Day 1-2 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
 ### Venue: Aula Maxima
-Address: 60 College Rd, University College, Cork, Ireland. 
+Address: 60 College Rd, University College, Cork, Ireland.   
 [<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
@@ -74,7 +74,7 @@ Address: 60 College Rd, University College, Cork, Ireland.
 ### Day 2-1 - Tuesday 7th April
 ### Introduction to Systems Biology
 ### Venue: Western Gateway Building
-Address: University College Cork, Western Rd, Mardyke, Cork, Ireland. 
+Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.   
 [<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
