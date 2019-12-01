@@ -20,6 +20,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 - [Schedule](#schedule)
   - [Day 1-1](#day-1-1---monday-6th-april)
+  - [Day 1-2](#day-1-2---monday-6th-april)
   - [Day 2](#day-2---tuesday-7th-april)
   - [Day 3](#day-3---wednesday-8th-april)
 - [Evening event](#evening-event)
@@ -33,7 +34,6 @@ This workshop is intended for PhD students with a background in medicine, engine
 ### Day 1-1 - Monday 6th April
 ### iPlacenta Network Meeting and ESR Presentations (Closed Event)
 ### Venue: Aula Maxima
-
 Address: 60 College Rd, University College, Cork, Ireland. 
 [<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
 <br />  
@@ -50,14 +50,23 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 11:30 - 12:00 | Supervisory Board Meeting ||
 | 12:00 - 12:50 | LUNCH || 
 
+### Day 1-2 - Monday 6th April
+### Work Package 2 Talks (Open Event)
+### Venue: Aula Maxima
+Address: 60 College Rd, University College, Cork, Ireland. 
+[<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
-
-
-| 14:30 - 15:15 | 
-| 15:15 - 15:45 | Coffee break ||
-| 15:45 - 16:30 | 
-| 16:30 - 17:15 | 
-| 18:00 |evening event?
+| **Time slot** | **Topic** | **Tutor** |
+| :---: | :--- | :---: |
+| 13:00 - 13:30 | TBD | Dr. Daniel Vaiman |
+| 13:30 - 14:00 | TBD | Prof. Leon de Windt|
+| 14:00 - 14:30 | Imaging of the Placenta | Dr. Lisa Story|
+| 14:30 - 15:00 | TBD | Dr. Jane English |
+| 15:00 - 15:15 | Coffee break ||
+| 15:15 - 15:45 | TBD | Prof. Olaf Wolkenhauer|
+| 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
 
 ### Day 2 - Tuesday 7th April
 
