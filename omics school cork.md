@@ -20,9 +20,7 @@ This workshop is intended for PhD students with a background in medicine, engine
 
 - [Schedule](#schedule)
   - [Day 1](#day-1---monday-6th-april)
-  - [Day 1-2](#day-1-2---monday-6th-april)
-  - [Day 2-1](#day-2-1---tuesday-7th-april)
-  - [Day 2-2](#day-2-2---tuesday-7th-april)
+  - [Day 2](#day-2---tuesday-7th-april)
   - [Day 3](#day-3---wednesday-8th-april)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
@@ -48,11 +46,8 @@ Address: 60 College Rd, University College, Cork, Ireland.
 | 10:40 - 11:05 | 3 min ESR Presentations| ESRs 9 to 15 |
 | 11:05 - 11:30 | Poster Session | all ESRs |
 | 11:30 - 12:00 | Supervisory Board Meeting ||
-| 12:00 - 12:50 | Lunch || 
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
+| 12:00 - 12:50 | Lunch ||  
 
-### Day 1 - Monday 6th April
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
 Venue: Aula Maxima 
@@ -71,13 +66,11 @@ Venue: Aula Maxima
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
-### Day 2-1 - Tuesday 7th April
+### Day 2 - Tuesday 7th April
 ### Introduction to Systems Biology
 Venue: Western Gateway Building
 Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.   
 [<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
@@ -89,15 +82,11 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | 12:30 - 13:15 | Lunch | |
 | 13:15 - 13:30 | Walk to CUMH |  |
 
-
-### Day 2-2 - Tuesday 7th April
 ### Patient Interaction Session
 Chair: Dr. Fergus McCarthy
 Venue: Cork University Materny Hospital
 Address: Wilton Rd, Wilton, Cork, Ireland.   
 [<img align="center" src="cork_university_maternity_hospital.PNG" height="200px" alt="Cork University Maternity Hospital" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
@@ -105,7 +94,8 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 | 13:40 - 14:20 | Pregnancy, birth, and 3  months in the NICO ... 10 years on | Bairbre O'Toole |
 | 14:20 - 15:05 | Irish Nionatal Health Alliance  <ul><li>Family Centred Care</li><li>Bonding and Attachment in the NICU</li><li>The importance of sleepin the NICU</li></ul> | Mandy Daly  |
 | 15:20 | Team Building Activity: Goalbreak | [Team Build Cork](https://corkcitygaol.com/) |
-
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 ### Day 3 - Wednesday 7th April
 ### UCC Talks (Open Session)
@@ -113,8 +103,6 @@ Chair: Dr. Jane English and Dr. Cathal McCarthy
 Venue: Western Gateway Building
 Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.   
 [<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)
-<br />  
-<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 | **Time** | **Title** | **Facilitator** |
 | :---: | :--- | :---: |
@@ -128,7 +116,8 @@ Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.
 | 11:20 - 11:55 | Microbiome-Gut-Brain Axis During Pregnancy and Beyond| Dr. Siobhain O'Mahony|
 | 11:55 - 12:25 | LUNCH| |
 | 12:25 - 13:45 | Standards of network visualization and hands on| Tom Gebhardt|
-
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
 ## Evening event
 
