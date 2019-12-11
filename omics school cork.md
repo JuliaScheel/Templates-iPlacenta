@@ -93,7 +93,7 @@ Address: Wilton Rd, Wilton, Cork, Ireland.
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 13:40 - 14:20 | Pregnancy, birth, and 3  months in the NICO ... 10 years on | [Bairbre O'Toole]( https://www.imdb.com/name/nm2002495/) |
 | 14:20 - 15:05 | Irish Neonatal Health Alliance  <ul><li>Family Centred Care</li><li>Bonding and Attachment in the NICU</li><li>The importance of sleepin the NICU</li></ul> | [Mandy Daly](https://www.healthynewbornnetwork.org/member/mandy-daly/)  |
-| 15:20 | Team Building Activity: Goalbreak | Team Build Cork |
+| 15:20 | Team Building Activity: Goalbreak | Cork City Gael |
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p> 
 
