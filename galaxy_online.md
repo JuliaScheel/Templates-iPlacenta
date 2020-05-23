@@ -43,30 +43,21 @@ Time and Date: tbd
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 20 min | Welcome | all |
 | 30 min | Introduction to Galaxy |  Andrea Bagnacani  |
-| 30 min | Hands on exercise | Andrea Bagnacani |
+| 30 min | Hands on exercise 1 | Andrea Bagnacani |
 
-Your turn! Try and recreate the exercise on your own. No worries, we are available for questions and issues. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here](https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
-
-### Work Package 2 Talks (Open Event)
-Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
-Venue: Aula Maxima 
-
-| **Time slot** | **Topic** | **Tutor** |
-| :---: | :--- | :---: |
-|<img width=100/>|<img width=550/>|<img width=150/>|
-| 13:00 - 13:30 | TBD | [Dr. Daniel Vaiman](https://www.institutcochin.fr/la-recherche/drc/equipe-vaiman) |
-| 13:30 - 14:00 | TBD | [Prof. Leon de Windt](https://www.maastrichtuniversity.nl/l.dewindt)|
-| 14:00 - 14:30 | Imaging of the Placenta | [Dr. Lisa Story](https://www.researchgate.net/profile/Lisa_Story)|
-| 14:30 - 15:00 | TBD | [Dr. Jane English](https://www.infantcentre.ie/who-we-are-2/our-team/investigators/dr-jane-english) |
-| 15:00 - 15:15 | Coffee break ||
-| 15:15 - 15:45 | TBD | [Prof. Olaf Wolkenhauer](https://www.sbi.uni-rostock.de/team/detail/prof-olaf-wolkenhauer)|
-| 16:00 - 17:00 | Map Away - Systems Biology - Disease Mapping Group - Activity and Coffee ||
+Your turn! Try and recreate the exercise on your own. No worries, we are available for support. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here](https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
 
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
-### Day 2 - Tuesday 7th April
-### Introduction to Systems Biology
-Venue: Western Gateway Building
-Address: University College Cork, Western Rd, Mardyke, Cork, Ireland.   
-[<img align="center" src="western_gateway_building.PNG" height="200px" alt="Western Gateway Building" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
+### Session 2 - tbd
+### RNA-seq analysis with Galaxy
+Meeting: Link
+Time and Date: tbd  
+
+| **Time slot** | **Topic** | **Lead** |
+| :---: | :------------------------------- | :---: |
+|<img width=100/>|<img width=550/>|<img width=150/>|
+| 30 min | Review exercise 1 | all |
+| 30 min | Hands on exercise 2 |  Andrea Bagnacani  |
+
