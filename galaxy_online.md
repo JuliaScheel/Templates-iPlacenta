@@ -41,8 +41,8 @@ Meeting: Link
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :------------------------------- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
-| 08:30 - 09:00 | Poster Set-up |  |
-| 09:00 - 10:00 | Network Meeting | iPlacenta ESRs and PIs |
+| 30 min | Introduction to Galaxy |  Andrea Bagnacani  |
+| 30 min | Hands on exercise | Andrea Bagnacani |
 | 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
 | 10:25 - 10:40 | Coffee break ||
 | 10:40 - 11:05 | 3 min ESR Presentations| ESRs 9 to 15 |
