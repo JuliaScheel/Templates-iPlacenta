@@ -91,6 +91,6 @@ Time and Date: tbd
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :------------------------------- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
-| 30 min | Review Python exercise | Julia Scheel |
+| 30 min | Review Python exercise | all |
 | 15 min | Recap |  all  |
 | 30 min | Q&A and feedback |  all  |
