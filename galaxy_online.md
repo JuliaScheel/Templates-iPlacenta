@@ -36,7 +36,7 @@ Julia Scheel
 ### Session 1 - tbd
 ### Introduction to Galaxy
 Meeting: Link
-
+Time and Date: tbd
   
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :------------------------------- | :---: |
@@ -45,7 +45,7 @@ Meeting: Link
 | 30 min | Introduction to Galaxy |  Andrea Bagnacani  |
 | 30 min | Hands on exercise | Andrea Bagnacani |
 
-Your turn! Try and recreate the exercise on your own. No worries, we are available for questions and issues. We will review the challenges next session, so we are all on the same track. 
+Your turn! Try and recreate the exercise on your own. No worries, we are available for questions and issues. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here](https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
 
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
