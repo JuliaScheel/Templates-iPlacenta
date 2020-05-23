@@ -38,7 +38,7 @@ Julia Scheel
 Meeting: Link
 
   
-| **Time slot** | **Topic** | **Tutor** |
+| **Time slot** | **Topic** | **Lead** |
 | :---: | :------------------------------- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
 | 20 min | Welcome | all |
