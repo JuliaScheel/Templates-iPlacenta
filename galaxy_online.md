@@ -1,6 +1,6 @@
-# PlacentOmics [Place holder]
+# Galaxy and Jupyter Notebook online course
 
-The training course will introduce basic concepts of systems biology, network analysis, network visualisation and the [Galaxy framework](https://usegalaxy.org). 
+The training course will introduce the [Galaxy framework](https://usegalaxy.org) and [Python](www.python.org). 
 
 Learning goals:
 - Understand the motivation behind systems biology approaches
