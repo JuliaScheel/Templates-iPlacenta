@@ -63,6 +63,8 @@ Time and Date: tbd
 
 Here we go again! Are you ready to try it for yourselves? No worries, we are available for support. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here]( https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
 
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 ### Session 3 - tbd
 ### Jupyter Notebook
 Meeting: Link
@@ -76,3 +78,18 @@ Time and Date: tbd
 | 60 min | Introduction Python |  Julia Scheel  |
 
 Go for it. Follow the exercises and show us your plots next time. As always, we are available for support. We will review the challenges next session. Find the step by step tutorial and required data [here]( tbd)
+
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
+
+### Session 4 - tbd
+### Conclusion
+Meeting: Link
+Time and Date: tbd  
+
+| **Time slot** | **Topic** | **Lead** |
+| :---: | :------------------------------- | :---: |
+|<img width=100/>|<img width=550/>|<img width=150/>|
+| 30 min | Review Python exercise | all |
+| 15 min | Recap |  all  |
+| 30 min | Q&A and feedback round |  all  |
