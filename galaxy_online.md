@@ -61,4 +61,4 @@ Time and Date: tbd
 | 30 min | Review exercise 1 | all |
 | 30 min | Hands on exercise 2 |  Andrea Bagnacani  |
 
-Here we go again! Are you ready to try it for yourselves? No worries, we are available for support. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here]( https://galaxyproject.github.io/training-material/topics/sequence-analysis/)
+Here we go again! Are you ready to try it for yourselves? No worries, we are available for support. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here]( https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
