@@ -8,15 +8,18 @@ Learning goals:
 - Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
 
 Prerequisites:
-This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC between two participants with internet access.
+This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC and a stable internet connection
 
+Tutors:
+[Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)
+[Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien)
 <div id="top"></div>
 
 - [Schedule](#schedule)
-  - [Day 1](#day-1---monday-6th-april)
-  - [Day 2](#day-2---tuesday-7th-april)
-  - [Day 3](#day-3---wednesday-8th-april)
-- [Evening event](#evening-event)
+  - [Session 1](#session-1---tbd)
+  - [Session 2](#session-2---tbd)
+  - [Session 3](#session-3---tbd)
+  - [Session 4](#session-4---tbd)
 - [Useful links](#useful-links)
 
 <br />
