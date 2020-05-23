@@ -94,3 +94,6 @@ Time and Date: tbd
 | 30 min | Review Python exercise | all |
 | 15 min | Recap |  all  |
 | 30 min | Q&A and feedback |  all  |
+
+
+## Useful Links
