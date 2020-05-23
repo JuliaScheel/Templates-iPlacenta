@@ -41,6 +41,7 @@ Meeting: Link
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :------------------------------- | :---: |
 |<img width=100/>|<img width=550/>|<img width=150/>|
+| 20 min | Welcome | all |
 | 30 min | Introduction to Galaxy |  Andrea Bagnacani  |
 | 30 min | Hands on exercise | Andrea Bagnacani |
 | 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
