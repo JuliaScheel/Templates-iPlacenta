@@ -10,9 +10,10 @@ Learning goals:
 Prerequisites:
 This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC and a stable internet connection
 
-Tutors:
-[Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)
-[Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien)
+Tutors:  
+[Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)  
+[Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien)  
+Julia Scheel
 <div id="top"></div>
 
 - [Schedule](#schedule)
