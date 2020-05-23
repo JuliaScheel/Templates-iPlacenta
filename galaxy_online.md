@@ -3,15 +3,9 @@
 The training course will introduce the [Galaxy framework](https://usegalaxy.org) and [Python](www.python.org). 
 
 Learning goals:
-- Understand the motivation behind systems biology approaches
-- Know basic systems biology terminologies
-- Understand the systems biology workflow
-- Calculate network topological parameters
-- Find critical nodes in the network
-- Identify the regulatory core from a large network
 - Know your data, and the implications of data preprocessing and quality control
 - Performing differential gene expression analysis using Galaxy
-- Visualize a network
+- Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
 
 Prerequisites:
 This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC between two participants with internet access.
