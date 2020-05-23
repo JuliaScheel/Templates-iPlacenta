@@ -62,3 +62,17 @@ Time and Date: tbd
 | 30 min | Hands on exercise 2 |  Andrea Bagnacani  |
 
 Here we go again! Are you ready to try it for yourselves? No worries, we are available for support. We will review the challenges next session, so we are all on the same track. Find the step by step tutorial and required data [here]( https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
+
+### Session 3 - tbd
+### Jupyter Notebook
+Meeting: Link
+Time and Date: tbd  
+
+| **Time slot** | **Topic** | **Lead** |
+| :---: | :------------------------------- | :---: |
+|<img width=100/>|<img width=550/>|<img width=150/>|
+| 30 min | Review exercise 2 | all |
+| 15 min |Recap Galaxy |  Andrea Bagnacani  |
+| 60 min | Introduction Python |  Julia Scheel  |
+
+Go for it. Follow the exercises and show us your plots next time. As always, we are available for support. We will review the challenges next session. Find the step by step tutorial and required data [here]( tbd)
