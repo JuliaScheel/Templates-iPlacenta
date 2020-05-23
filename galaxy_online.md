@@ -65,8 +65,8 @@ Here we go again! Are you ready to try it for yourselves? No worries, we are ava
 
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
-### Session 3 - tbd
-### Jupyter Notebook
+### Session 3 - tbd  
+### Jupyter Notebook  
 Meeting: Link
 Time and Date: tbd  
 
