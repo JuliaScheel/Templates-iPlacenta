@@ -95,5 +95,14 @@ Time and Date: tbd
 | 15 min | Recap |  all  |
 | 30 min | Q&A and feedback |  all  |
 
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
 
 ## Useful Links
+
+- Know your data, and the implications of data preprocessing and quality control
+- Performing differential gene expression analysis using Galaxy
+- Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
+
+<br />  
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>  
