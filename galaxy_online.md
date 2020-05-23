@@ -33,11 +33,10 @@ Julia Scheel
 
 ## Schedule
 
-### Day 1 - Monday 6th April
-### iPlacenta Network Meeting and ESR Presentations (Closed Event)
-Venue: Aula Maxima
-Address: 60 College Rd, University College, Cork, Ireland.   
-[<img align="center" src="Aula Maxima.PNG" height="200px" alt="Aula Maxima" valign="middle">](https://www.google.com/maps/place/Aula+Maxima/@51.8939207,-8.4920239,15z/data=!4m5!3m4!1s0x0:0x4c6ab06f79c33f6a!8m2!3d51.8939207!4d-8.4920239)  
+### Session 1 - tbd
+### Introduction to Galaxy
+Meeting: Link
+
   
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :------------------------------- | :---: |
