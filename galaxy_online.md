@@ -13,7 +13,12 @@ This workshop is intended for PhD students with a background in medicine, engine
 Tutors:  
 [Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)  
 [Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien)  
-Julia Scheel
+Julia Scheel  
+
+## About Galaxy:
+
+## About Jupyther Notebooks:
+
 <div id="top"></div>
 
 - [Schedule](#schedule)
