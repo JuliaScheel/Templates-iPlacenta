@@ -8,7 +8,10 @@ Learning goals:
 - Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
 
 Prerequisites:
-This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC and a stable internet connection
+This workshop is intended for PhD students with a background in medicine, engineering and life science research. In order to take part in the hands-on session we recommend one Laptop/PC and a stable internet connection.
+We further ask you to create a [Galaxy account](https://usegalaxy.org/login) beforehand.
+
+Please let us know if you have issues setting up your accounts, before the beggining of session 1. 
 
 Tutors:  
 [Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)  
@@ -100,7 +103,8 @@ Time and Date: tbd
 
 ## Useful Links
 
-- Know your data, and the implications of data preprocessing and quality control
+- [Galaxy landingpage](https://usegalaxy.org/)
+- [Create a Galaxy account](
 - Performing differential gene expression analysis using Galaxy
 - Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
 
