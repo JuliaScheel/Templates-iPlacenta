@@ -44,12 +44,8 @@ Meeting: Link
 | 20 min | Welcome | all |
 | 30 min | Introduction to Galaxy |  Andrea Bagnacani  |
 | 30 min | Hands on exercise | Andrea Bagnacani |
-| 10:00 - 10:25 | 3 min ESR Presentations | ESRs 1 to 8 |
-| 10:25 - 10:40 | Coffee break ||
-| 10:40 - 11:05 | 3 min ESR Presentations| ESRs 9 to 15 |
-| 11:05 - 11:30 | Poster Session | all ESRs |
-| 11:30 - 12:00 | Supervisory Board Meeting ||
-| 12:00 - 12:50 | Lunch ||  
+
+Your turn! Try and recreate the exercise on your own. No worries, we are available for questions and issues. We will review the challenges next session, so we are all on the same track. 
 
 ### Work Package 2 Talks (Open Event)
 Chair: Prof. Olaf Wolkenhauer and Dr. Colin Murdoch
