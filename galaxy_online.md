@@ -104,9 +104,12 @@ Time and Date: tbd
 ## Useful Links
 
 - [Galaxy landingpage](https://usegalaxy.org/)
-- [Create a Galaxy account](
-- Performing differential gene expression analysis using Galaxy
-- Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
+- [Create a Galaxy account](https://usegalaxy.org/login)
+- [Galaxy news, community and learning material](https://galaxyproject.org/)
+- [deNBI](https://www.denbi.de/training) training opportunities
+- [Python](https://www.python.org/) documentation and community
+- [thecarpentries](https://carpentries.org/) learning opportunities and community
+- [stackoverflow](https://stackoverflow.com/)
 
 <br />  
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>  
