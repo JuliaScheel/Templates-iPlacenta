@@ -1,6 +1,9 @@
-# Galaxy and Jupyter Notebook online course
+# Galaxy and Python online course
 
 The training course will introduce the [Galaxy framework](https://usegalaxy.org) and [Python](www.python.org). 
+
+Galaxy is an open source, web-based platform for data intensive biomedical research.
+
 
 Learning goals:
 - Know your data, and the implications of data preprocessing and quality control
