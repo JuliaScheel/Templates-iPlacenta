@@ -23,6 +23,8 @@ Julia Scheel
 
 ## About Galaxy:
 
+Galaxy[2] is a scientific workflow, data integration,[3][4] and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming or systems administration experience. Although it was initially developed for genomics research, it is largely domain agnostic and is now used as a general bioinformatics workflow management system.[5]
+
 ## About Jupyther Notebooks:
 
 <div id="top"></div>
