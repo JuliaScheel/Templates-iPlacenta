@@ -2,6 +2,24 @@
 
 The training course will introduce the [Galaxy framework](https://usegalaxy.org) and [Python](www.python.org). 
 
+## Motivation
+
+Life sciences used to be all about wet-lab expertise. Due to fast technical innovations and digitalisation we are now facing the challenge of dealing with vasts amounts of data. Analyses of such data requires advanced statistics and specialized tools to run analyses and visualize both data and results. Science becomes more and more dependent on bioinformaticians and computer scientists. 
+
+f information technologies in all areas of our life, are
+generating data not only in unprecedented quantities but also domains that were unthinkable only
+a few years ago. With the fairly recent development of algorithms for deep convoluted neural
+networks, deep learning and artificial intelligence are penetrating all aspects of our life.
+Autonomous cars are no longer science fiction but a reality. Whether we like it, or not, machine
+learning techniques will become relevant to most areas in science and industry.
+With this seminar, you can learn the terminology, methodologies and tools used for machine
+learning or data science in general. You should learn how to define a problem, how to prepare
+data, how to evaluate algorithms, how to improve data analysis workflows and how to present and
+visualise results. We don’t want you to just prepare a text and presentation by searching the
+Internet for material. Instead, we want you to experiment and code, preparing the report as a
+documentation of your data analysis.
+
+
 Galaxy is an open source, web-based platform for data intensive biomedical research.
 
 
@@ -15,7 +33,6 @@ This workshop is intended for PhD students with a background in medicine, engine
 We further ask you to create a [Galaxy account](https://usegalaxy.org/login) beforehand.
 
 Please let us know if you have issues setting up your accounts, before the beggining of session 1. 
-
 Tutors:  
 [Andrea Bagnacani](https://www.sbi.uni-rostock.de/team/detail/andrea-bagnacani)  
 [Markus Wolfien](https://www.sbi.uni-rostock.de/team/detail/markus-wolfien)  
