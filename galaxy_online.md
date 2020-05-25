@@ -4,7 +4,7 @@ The training course will introduce the [Galaxy framework](https://usegalaxy.org)
 
 ## Motivation
 
-Life sciences used to be all about wet-lab expertise. Due to fast technical innovations and digitalisation we are now facing the challenge of dealing with vasts amounts of data. Analyses of such data requires advanced statistics and specialized tools to run analyses and visualize both data and results. Science becomes more and more dependent on bioinformaticians and computer scientists, which creates the additional challenge of interdisciplinary communication. This course introduces Galaxy, an open source, web-based platform for data intensive biomedical research and a brief introduction to Python, interpreted, high-level, general-purpose programming language.
+Life sciences used to be all about wet-lab expertise. Due to fast technical innovations and digitalisation we are now facing the challenge of dealing with vasts amounts of data. Analyses of such data requires advanced statistics and specialized tools to run analyses and to visualize both data and results. Science becomes more and more dependent on bioinformaticians and computer scientists, which creates the additional challenge of interdisciplinary communication. This course introduces Galaxy, an open source, web-based platform for data intensive biomedical research and a brief introduction to Python, interpreted, high-level, general-purpose programming language. You can chose to use this course as a stepping stone into advanced analyses or as an opportunity to learn what your bioinformatician of trust is actually doing. Both Galaxy and Python have active user communities, making self-paced learning possible 
 
 ### Galaxy
 
