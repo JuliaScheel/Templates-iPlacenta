@@ -9,6 +9,8 @@ Life sciences used to be all about wet-lab expertise. Due to fast technical inno
 ### Galaxy
 Galaxy is a scientific workflow, data integration, and data analysis platform that aims to make computational biology accessible to research scientists that do not have extended computer programming experience. It was initially developed for genomics research and grew into a general bioinformatics workflow management system. It's intended use supports the accessibility, reproducibility and trasparency of research.
 
+ Python
+Python is a high-level, general-purpose programming language. It's design emphasizes code readability and supports the use of clear and logically written code. Applications of Python transcends life sciences and are used by large organizations, such as Wikipedia, Google, NASA, Spotify and many more. Jupyter Notebooks contain both code and text elements. Notebook documents are both human-readable documents containing the analysis description and the results (including figures and tables) as well as executable documents which can be run to perform data analysis.
 
 
 Learning goals:
