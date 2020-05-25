@@ -4,10 +4,10 @@ The training course will introduce the [Galaxy framework](https://usegalaxy.org)
 
 ## Motivation
 
-Life sciences used to be all about wet-lab expertise. Due to fast technical innovations and digitalisation we are now facing the challenge of dealing with vasts amounts of data. Analyses of such data requires advanced statistics and specialized tools to run analyses and to visualize both data and results. Science becomes more and more dependent on bioinformaticians and computer scientists, which creates the additional challenge of interdisciplinary communication. This course introduces Galaxy, an open source, web-based platform for data intensive biomedical research and a brief introduction to Python, interpreted, high-level, general-purpose programming language. You can chose to use this course as a stepping stone into advanced analyses or as an opportunity to learn what your bioinformatician of trust is actually doing. Both Galaxy and Python have active user communities, making self-paced learning possible 
+Life sciences used to be all about wet-lab expertise. Due to fast technical innovations and digitalisation we are now facing the challenge of dealing with vasts amounts of data. Analyses of such data requires advanced statistics and specialized tools to run analyses and to visualize both data and results. Science becomes more and more dependent on bioinformaticians and computer scientists, which creates the additional challenge of interdisciplinary communication. This course introduces Galaxy, an open source, web-based platform for data intensive biomedical research and a brief introduction to Python, interpreted, high-level, general-purpose programming language. You can chose to use this course as a stepping stone into advanced analyses or as an opportunity to learn what your bioinformatician of trust is actually doing. Further courses and tutorials for Galaxy and Python are widely available. Both Galaxy and Python have active user communities, making self-paced learning possible.
 
 ### Galaxy
-
+Galaxy is a scientific workflow, data integration, and data analysis platform that aims to make computational biology accessible to research scientists that do not have extended computer programming experience. It was initially developed for genomics research and grew into a general bioinformatics workflow management system. It's intended use supports the accessibility, reproducibility and trasparency of research.
 
 
 
@@ -28,7 +28,7 @@ Julia Scheel
 
 ## About Galaxy:
 
-Galaxy[2] is a scientific workflow, data integration,[3][4] and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming or systems administration experience. Although it was initially developed for genomics research, it is largely domain agnostic and is now used as a general bioinformatics workflow management system.[5]
+
 
 ## About Jupyther Notebooks:
 
