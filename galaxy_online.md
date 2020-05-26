@@ -15,8 +15,8 @@ source, web-based platform for data intensive biomedical research and
 [Python](https://www.python.org), an interpreted, high-level, general-purpose
 programming language.  
 
-You can chose to use this course as a stepping stone into advanced analyses or
-as an opportunity to learn what your bioinformatician of trust is actually
+You can chose to use this course as a stepping stone into advanced analyses,
+or as an opportunity to learn what your bioinformatician of trust is actually
 doing.  
 Further courses and tutorials for Galaxy and Python are widely available. Both
 Galaxy and Python have active user communities, making self-paced learning
@@ -36,8 +36,10 @@ possible.
 
 ## Learning goals
 
-- Know your data, and the implications of data preprocessing and quality control
-- Understand the general use, advantages and disadvantages of Python and more specifically Jupyter Notebooks.
+- Know your data: implications of quality control and data preprocessing
+- Hands-on quality control and data preprocessing
+- Understanding and programming in Python
+- Hands-on session with Jupyter Notebooks.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
