@@ -94,7 +94,7 @@ Time and Date: ``tbd``
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
 | 20 min | Welcome | all |
 | 30 min | Introduction to Galaxy | Andrea Bagnacani |
-| 30 min | Exercise demo: Quality control and data preprocessing | Andrea Bagnacani |
+| 30 min | Exercise demo: Quality control and data preprocessing with Galaxy | Andrea Bagnacani |
 
 Your turn! Try and recreate the exercise on your own. No worries, we are
 available for support.  
