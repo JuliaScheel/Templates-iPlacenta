@@ -94,7 +94,7 @@ Time and Date: ``tbd``
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
 | 20 min | Welcome | all |
 | 30 min | Introduction to Galaxy | Andrea Bagnacani |
-| 30 min | Hands on exercise 1 | Andrea Bagnacani |
+| 30 min | Exercise demo: Quality control and data preprocessing | Andrea Bagnacani |
 
 Your turn! Try and recreate the exercise on your own. No worries, we are
 available for support.  
@@ -113,7 +113,7 @@ Time and Date: ``tbd``
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :--- | :---: |
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
-| 30 min | Review exercise 2 | all |
+| 30 min | Exercise review | all |
 | 15 min | Recap Galaxy | Andrea Bagnacani |
 | 60 min | Introduction Python | Julia Scheel |
 
