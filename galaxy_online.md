@@ -87,7 +87,7 @@ can be run to perform data analysis.
 ### Session 1 - Introduction to Galaxy
 
 Meeting: ``Link``
-Time and Date: ``tbd``
+Time and Date: 15:00 - 16:30 CEST, 13.07.2020
 
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :--- | :---: |
@@ -108,7 +108,7 @@ Find the step by step tutorial and required data [here](https://galaxyproject.gi
 ### Session 2 - Jupyter Notebook
 
 Meeting: ``Link``
-Time and Date: ``tbd``
+Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
 
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :--- | :---: |
@@ -128,7 +128,7 @@ Find the step by step tutorial and required data [here](tbd).
 ### Session 3 - Conclusion
 
 Meeting: ``Link``
-Time and Date: ``tbd``
+Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :--- | :---: |
