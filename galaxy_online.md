@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 
-# Galaxy and Python online course
+# Introduction to Galaxy and Python with Jupyter Notebook
 
 Life sciences used to be all about wet-lab expertise. Due to fast technical
 innovations and digitalisation we are now facing the challenge of dealing with
@@ -11,9 +11,10 @@ Science becomes more and more dependent on bioinformaticians and computer
 scientists, which creates the additional challenge of interdisciplinary
 communication.  
 This course introduces the [Galaxy framework](https://usegalaxy.eu), an open
-source, web-based platform for data intensive biomedical research and
-[Python](https://www.python.org), an interpreted, high-level, general-purpose
-programming language.  
+source, web-based platform for data intensive biomedical research, [Python](https://www.python.org),
+an interpreted, high-level, general-purpose programming language, and
+[Jupyter Notebook](https://jupyter.org/), a multi-language framework for
+interactive computing.  
 
 You can chose to use this course as a stepping stone into advanced analyses,
 or as an opportunity to learn what your bioinformatician of trust is actually
@@ -27,7 +28,7 @@ possible.
 - [Tools](#tools)
 - [Schedule](#schedule)
   - [Session 1](#session-1---introduction-to-galaxy)
-  - [Session 2](#session-2---jupyter-notebook)
+  - [Session 2](#session-2---python-and-jupyter-notebook)
   - [Session 3](#session-3---conclusion)
 - [Tutors](#tutors)
 - [Useful links](#useful-links)
@@ -74,10 +75,11 @@ syntax emphasizes code readability and supports the use of clear and logically
 written algorithms.  
 Applications of Python transcends life sciences and are used by large
 organizations, such as Wikipedia, Google, NASA, Spotify and many more.  
-Jupyter Notebooks contain both code and text elements. Notebook documents are
-both human-readable documents containing the analysis description and the
-results (including figures and tables) as well as executable documents which
-can be run to perform data analysis.
+
+**Jupyter Notebooks**: a multi-language platform for interactive computing.
+Notebook documents are both human-readable documents containing the analysis
+description and the results (including figures and tables) as well as
+executable documents which can be run to perform data analysis.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
@@ -105,7 +107,7 @@ Find the step by step tutorial and required data [here](https://galaxyproject.gi
 
 
 
-### Session 2 - Jupyter Notebook
+### Session 2 - Python and Jupyter Notebook
 
 Meeting: ``Link``
 Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
@@ -115,7 +117,7 @@ Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
 | 30 min | Exercise review | all |
 | 15 min | Recap Galaxy | Andrea Bagnacani |
-| 60 min | Introduction Python | Julia Scheel |
+| 60 min | Introduction Python and Jupyter Notebook | Julia Scheel |
 
 Go for it. Follow the exercises and show us your plots next time.  
 As always, we are available for support. We will review the challenges during
