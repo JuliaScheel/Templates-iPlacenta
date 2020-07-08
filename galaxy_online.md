@@ -1,5 +1,14 @@
 <div id="top"></div>
 
+<p align="left">
+  <img align="left"
+    src="images/denbi.png"
+    height="50px"
+    alt="www.denbi.de"
+    valign="top"/>
+  <span>&nbsp;</span>
+</p>
+<br/>
 
 # Introduction to Galaxy and Python with Jupyter Notebook
 
