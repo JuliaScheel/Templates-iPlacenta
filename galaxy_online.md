@@ -2,11 +2,16 @@
 
 <p align="left">
   <img align="left"
+    src="images/iplacenta.png"
+    height="50px"
+    alt="www.iplacenta.eu"
+    valign="top"/>
+  <span>&nbsp;</span>
+  <img align="center"
     src="images/denbi.png"
     height="50px"
     alt="www.denbi.de"
     valign="top"/>
-  <span>&nbsp;</span>
 </p>
 <br/>
 
