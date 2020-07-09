@@ -69,7 +69,7 @@ We further ask you to create a [Galaxy account](https://usegalaxy.eu/login)
 beforehand.  
 
 _Please let us know if you have issues setting up your accounts, before the
-beggining of session 1._
+beginning of session 1._
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
