@@ -102,7 +102,7 @@ executable documents which can be run to perform data analysis.
 
 ### Session 1 - Introduction to Galaxy
 
-Meeting: ``https://uni-rostock-de.zoom.us/j/7990949900?pwd=Vm1ZWDNsMjJKeU9uRlV6OTdFTG9nUT09``
+Meeting: [Zoom Session 1](https://uni-rostock-de.zoom.us/j/7990949900?pwd=Vm1ZWDNsMjJKeU9uRlV6OTdFTG9nUT09)
 Time and Date: 15:00 - 16:30 CEST, 13.07.2020
 
 | **Time slot** | **Topic** | **Lead** |
