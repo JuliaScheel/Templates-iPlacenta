@@ -123,7 +123,7 @@ Find the step by step tutorial and required data [here](https://galaxyproject.gi
 
 ### Session 2 - Python and Jupyter Notebook
 
-Meeting: ``Link``
+Meeting: [Zoom Session 2](https://uni-rostock-de.zoom.us/j/99281225131?pwd=R1pBUWlyRkQxTWQxVE5QOHdsaDhuQT09)
 Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
 
 | **Time slot** | **Topic** | **Lead** |
