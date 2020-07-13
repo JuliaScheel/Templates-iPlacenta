@@ -174,8 +174,12 @@ The following lists collect resources that were used or referenced throughout th
 - Our Galaxy instance of reference: [usegalaxy.eu](https://usegalaxy.eu)
 - Where to [create an account](https://usegalaxy.eu/login)
 - The [Galaxy training material](https://galaxyproject.github.io/training-material/)
+- The [Galaxy Tool Shed](https://toolshed.g2.bx.psu.edu/)
+- [Zenodo](https://zenodo.org/)
 - QC Fail: [articles about common NGS QC problems](https://sequencing.qcfail.com)
 - Further [de.NBI training opportunities](https://www.denbi.de/training)
+
+### Python
 - [Python](https://www.python.org/) documentation and community
 - [The Carpentries](https://carpentries.org/) learning opportunities and community
 - [Stack Overflow](https://stackoverflow.com/)
