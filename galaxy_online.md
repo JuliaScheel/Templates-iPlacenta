@@ -129,7 +129,7 @@ Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
 | **Time slot** | **Topic** | **Lead** |
 | :---: | :--- | :---: |
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
-| 30 min | Exercise review | all |
+| 30 min | Exercise review and [feedback](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000267) | all |
 | 15 min | Recap Galaxy | Andrea Bagnacani |
 | 60 min | Introduction Python and Jupyter Notebook | Julia Scheel |
 
