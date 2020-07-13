@@ -167,10 +167,15 @@ Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 
 ## Useful Links
 
-- [Galaxy](https://usegalaxy.eu)
-- [Create a Galaxy account](https://usegalaxy.eu/login)
-- [Galaxy training material](https://galaxyproject.github.io/training-material/)
-- [de.NBI](https://www.denbi.de/training) training opportunities
+The following lists collect resources that were used or referenced throughout the online training sessions.
+
+### Galaxy
+
+- Our Galaxy instance of reference: [usegalaxy.eu](https://usegalaxy.eu)
+- Where to [create an account](https://usegalaxy.eu/login)
+- The [Galaxy training material](https://galaxyproject.github.io/training-material/)
+- QC Fail: [articles about common NGS QC problems](https://sequencing.qcfail.com)
+- Further [de.NBI training opportunities](https://www.denbi.de/training)
 - [Python](https://www.python.org/) documentation and community
 - [The Carpentries](https://carpentries.org/) learning opportunities and community
 - [Stack Overflow](https://stackoverflow.com/)
