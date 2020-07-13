@@ -109,8 +109,8 @@ Time and Date: 15:00 - 16:30 CEST, 13.07.2020
 | :---: | :--- | :---: |
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
 | 20 min | Welcome | all |
-| 30 min | Introduction to Galaxy | Andrea Bagnacani |
-| 30 min | Exercise demo: Quality control and data preprocessing with Galaxy | Andrea Bagnacani |
+| 30 min | Introduction to Galaxy [slides](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1) and Quality Control [slides](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) | Andrea Bagnacani |
+| 30 min | Exercise demo: Quality control and data preprocessing with Galaxy [hands-on](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Andrea Bagnacani |
 
 Your turn! Try and recreate the exercise on your own. No worries, we are
 available for support.  
@@ -167,10 +167,20 @@ Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 
 ## Useful Links
 
-- [Galaxy](https://usegalaxy.eu)
-- [Create a Galaxy account](https://usegalaxy.eu/login)
-- [Galaxy training material](https://galaxyproject.github.io/training-material/)
-- [de.NBI](https://www.denbi.de/training) training opportunities
+The following lists collect resources that were used or referenced throughout the online training sessions.
+
+### Galaxy
+
+- Our Galaxy instance of reference: [usegalaxy.eu](https://usegalaxy.eu)
+- Where to [create an account](https://usegalaxy.eu/login)
+- The [Galaxy training material](https://galaxyproject.github.io/training-material/)
+- The [Galaxy Tool Shed](https://toolshed.g2.bx.psu.edu/)
+- [Galaxy flavors](https://github.com/bgruening/docker-galaxy-stable#list-of-galaxy-flavours--toc)!
+- [Zenodo](https://zenodo.org/)
+- QC Fail: [articles about common NGS QC problems](https://sequencing.qcfail.com)
+- Further [de.NBI training opportunities](https://www.denbi.de/training)
+
+### Python
 - [Python](https://www.python.org/) documentation and community
 - [The Carpentries](https://carpentries.org/) learning opportunities and community
 - [Stack Overflow](https://stackoverflow.com/)
