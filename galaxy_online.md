@@ -139,6 +139,9 @@ the next session.
 Find the step by step tutorial and required data [here](https://github.com/JuliaScheel/Templates-iPlacenta/blob/master/iPlacenta_jupyter_notebook_blank.pdf) in pdf and [here](https://github.com/JuliaScheel/Templates-iPlacenta/blob/master/iPlacenta_blank.ipynb) as a jupyter notebook.
 
 To save the jupyter notebook correctly please click on "Raw", then press "ctrl+s", then manually add ".ipynb" to the file. Please be aware, should you not add it manually the file will be saved as a .txt (and will be called "iPlacenta_blank.ipynb.txt")
+
+The data can be found [here](https://github.com/JuliaScheel/Templates-iPlacenta/tree/master/data). Please download the files just like before and add ".csv". You will also receive the files by e-mail.
+
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
