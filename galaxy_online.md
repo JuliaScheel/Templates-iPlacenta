@@ -136,7 +136,7 @@ Time and Date: 14:00 - 15:30 CEST, 15.07.2020`
 Go for it. Follow the exercises and show us your plots next time.  
 As always, we are available for support. We will review the challenges during
 the next session.  
-Find the step by step tutorial and required data [here](tbd).
+Find the step by step tutorial and required data [here](https://github.com/JuliaScheel/Templates-iPlacenta/blob/master/iPlacenta_jupyter_notebook_blank.pdf) in pdf and [here](https://github.com/JuliaScheel/Templates-iPlacenta/blob/master/iPlacenta_blank.ipynb) as a jupyter notebook.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
