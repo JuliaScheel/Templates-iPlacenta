@@ -190,3 +190,37 @@ The following lists collect resources that were used or referenced throughout th
 - [The Carpentries](https://carpentries.org/) learning opportunities and community
 - [Stack Overflow](https://stackoverflow.com/)
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
+
+
+
+## Random Tips
+
+How to obtain FASTQ files from SRA entries?
+
+From an [SRA data list on NCBI](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=316992)
+
+- Select the files of interest
+- Click ``Send to``
+- Select ``File``
+- Select ``Accession list``
+- Click ``Create File``
+
+You now have a textfile (SraAccList.txt) with a list of 29 SRA identifiers:
+```
+SRR3317120
+SRR3317121
+SRR3317122
+...
+```
+
+Save it to a directory called ``/home/<user>/ncbi/public/sra``, or the next step won't work (you should configure the prefetch command otherwise)
+
+You now have to loop through them to download the .sra files from Entrez, and convert them into FASTQ files.  
+Using Bash:
+```
+$ while read srr; \
+do prefetch -v "$srr"; \
+fastq-dump --split-files --gzip "$l"; \
+rm "$srr".sra ; \
+done < SraAccList.txt
+```
