@@ -109,8 +109,8 @@ Time and Date: 15:00 - 16:30 CEST, 13.07.2020
 | :---: | :--- | :---: |
 |<img width="100"/>|<img width="550"/>|<img width="150"/>|
 | 20 min | Welcome | all |
-| 30 min | Introduction to Galaxy [slides](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1) and Quality Control [slides](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) | Andrea Bagnacani |
-| 30 min | Exercise demo: Quality control and data preprocessing with Galaxy [hands-on](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Andrea Bagnacani |
+| 30 min | Introduction to Galaxy ([slides](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)) and Quality Control ([slides](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1)) | Andrea Bagnacani |
+| 30 min | Exercise demo: Quality control and data preprocessing with Galaxy ([hands-on](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)) | Andrea Bagnacani |
 
 Your turn! Try and recreate the exercise on your own. No worries, we are
 available for support.  
