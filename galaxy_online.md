@@ -45,7 +45,11 @@ possible.
   - [Session 2](#session-2---python-and-jupyter-notebook)
   - [Session 3](#session-3---conclusion)
 - [Tutors](#tutors)
-- [Useful links](#useful-links)
+- [Useful links and tips](#useful-links-and-tips)
+  - [Galaxy and QC](#galaxy-and-qc)
+  - [Run Galaxy as a Docker container](#run-galaxy-as-a-docker-container)
+  - [Python resources](#python-resources)
+  - [How to obtain FASTQ files from SRA entries](#how-to-obtain-fastq-files-from-sra-entries)
 
 
 
@@ -170,11 +174,11 @@ Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 
 
 
-## Useful Links
+## Useful Links and Tips
 
-The following lists collect resources that were used or referenced throughout the online training sessions.
 
-### Galaxy
+
+### Galaxy and QC
 
 - Our Galaxy instance of reference: [usegalaxy.eu](https://usegalaxy.eu)
 - Where to [create an account](https://usegalaxy.eu/login)
@@ -184,18 +188,49 @@ The following lists collect resources that were used or referenced throughout th
 - [Zenodo](https://zenodo.org/)
 - QC Fail: [articles about common NGS QC problems](https://sequencing.qcfail.com)
 - Further [de.NBI training opportunities](https://www.denbi.de/training)
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
-### Python
+
+
+### Run Galaxy as a Docker container
+
+Galaxy can run on your machine. To do so, you need [Docker](https://www.docker.com/), which can be
+installed in different ways depending on the underlying system:
+- Unix users should follow the
+[Docker installation for Linux](https://docs.docker.com/installation)
+- MacOS 10.12+ users should follow the
+[Docker installation for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+- Windows 10+ users, should follow the
+[Docker installation for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
+- Non-unix users, whose operative system version is older than the
+aforementioned one, can rely on [Kitematic](https://kitematic.com/)
+
+Once Docker is set, you can run the container.
+
+Galaxy exists in [many flavors](https://github.com/bgruening/docker-galaxy-stable#list-of-galaxy-flavours--toc). Let's run the [RNA Workbench](https://github.com/bgruening/galaxy-rna-workbench): a Galaxy instance tailored for RNA analysis.
+
+- Users not relying on Kitematic can open a terminal, or a Windows PowerShell, and type:
+```
+$ docker run -d -p 8080:80 quay.io/bgruening/galaxy-rna-workbench
+```
+
+- Kitematic users can launch the Galaxy instance by following [these instructions](https://docs.docker.com/kitematic/userguide/).
+
+After running the container, the Galaxy instance can be accessed from the local
+web browser, at the address ``localhost:8080``.  
+We recommend using Google Chrome, Chromium, or Mozilla Firefox.
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>
+
+
+
+### Python resources
 - [Python](https://www.python.org/) documentation and community
 - [The Carpentries](https://carpentries.org/) learning opportunities and community
 - [Stack Overflow](https://stackoverflow.com/)
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
-
-## Random Tips
-
-How to obtain FASTQ files from SRA entries?
+### How to obtain FASTQ files from SRA entries
 
 From an [SRA data list on NCBI](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=316992)
 
@@ -224,3 +259,4 @@ fastq-dump --split-files --gzip "$l"; \
 rm "$srr".sra ; \
 done < SraAccList.txt
 ```
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>
