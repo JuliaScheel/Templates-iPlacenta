@@ -205,17 +205,16 @@ installed in different ways depending on the underlying system:
 - Non-unix users, whose operative system version is older than the
 aforementioned one, can rely on [Kitematic](https://kitematic.com/)
 
-Once Docker is set, you can run the container.  
+Once Docker is set, you can run the container.
+
 Galaxy exists in [many flavors](https://github.com/bgruening/docker-galaxy-stable#list-of-galaxy-flavours--toc). Let's run the [RNA Workbench](https://github.com/bgruening/galaxy-rna-workbench): a Galaxy instance tailored for RNA analysis.
 
-Users not relying on Kitematic can open a terminal, or a Windows PowerShell,
-and type:
+- Users not relying on Kitematic can open a terminal, or a Windows PowerShell, and type:
 ```
 $ docker run -d -p 8080:80 quay.io/bgruening/galaxy-rna-workbench
 ```
 
-Kitematic users can launch the Galaxy instance by following
-[these instructions](https://docs.docker.com/kitematic/userguide/).
+- Kitematic users can launch the Galaxy instance by following [these instructions](https://docs.docker.com/kitematic/userguide/).
 
 After running the container, the Galaxy instance can be accessed from the local
 web browser, at the address ``localhost:8080``.  
