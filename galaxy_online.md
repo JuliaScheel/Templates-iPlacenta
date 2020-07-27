@@ -164,6 +164,8 @@ Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
+## Feedback
+Please provide feedback here https://www.surveymonkey.de/r/JBV7KP8
 
 ## Tutors
 
@@ -221,9 +223,6 @@ web browser, at the address ``localhost:8080``.
 We recommend using Google Chrome, Chromium, or Mozilla Firefox.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
-
-### Feedback
-Please provide feedback here https://www.surveymonkey.de/r/JBV7KP8
 
 ### Python resources
 - [Python](https://www.python.org/) documentation and community
