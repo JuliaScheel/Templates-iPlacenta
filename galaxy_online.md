@@ -222,6 +222,8 @@ We recommend using Google Chrome, Chromium, or Mozilla Firefox.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
+### Feedback
+Please provide feedback here https://www.surveymonkey.de/r/JBV7KP8
 
 ### Python resources
 - [Python](https://www.python.org/) documentation and community
