@@ -152,7 +152,7 @@ The data can be found [here](https://github.com/JuliaScheel/Templates-iPlacenta/
 
 ### Session 3 - Conclusion
 
-Meeting: [Zoom Session 3](https://uni-rostock-de.zoom.us/j/7990949900?pwd=Vm1ZWDNsMjJKeU9uRlV6OTdFTG9nUT09)
+Meeting: [Zoom Session 3](https://uni-rostock-de.zoom.us/j/95527560605?pwd=QnpRdXY5ZStKYWlnQnAwRGdIdlRZUT09)
 Time and Date: 15:00 - 16:30 CEST, 27.07.2020
 
 | **Time slot** | **Topic** | **Lead** |
